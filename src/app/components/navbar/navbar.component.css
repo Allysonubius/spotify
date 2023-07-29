@@ -15,6 +15,9 @@ nav.navbar-transparente {
   color: transparent;
 }
 
+.nav-item a{
+  color: aliceblue;
+}
 .nav-item
 a:hover{
   color: chartreuse;

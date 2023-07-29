@@ -5,10 +5,17 @@ body{
   margin: 0;
   padding: 0;
   height: 100vh;
-  overflow: hidden;
+  overflow: auto;
 }
 
 html,
 body{
   height: 100%;
+}
+
+body{
+  background: url('/src/assets/imagens/capa.png'), url('/src/assets/imagens/ruido.png'), linear-gradient(50deg, #ff4169, #7c26f8);
+  background-attachment: fixed;
+  font-family: Helvetica, arial, sans-serif;
+  overflow-x: hidden;
 }

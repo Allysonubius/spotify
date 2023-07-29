@@ -1,16 +1,6 @@
-
-
-nav.navbar-transparente {
-  Padding: 15px 0px;
-  background: rgba(0, 0, 0, 0.6);
-  border: none;
+html,
+body{
+  height: 100vh;
+  overflow: auto;
 }
 
-.navbar-brand {
-  padding: 5px 15px;
-  ;
-}
-.navbar-inverse .navbar-nav>li>a,
-#rodape .nav a {
-    color: white;
-}
