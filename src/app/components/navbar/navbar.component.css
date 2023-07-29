@@ -1,0 +1,21 @@
+nav.navbar-transparente {
+  background: rgba(0, 0, 0, 0.6);
+  border: none;
+}
+.navbar-brand {
+  padding: 5px 15px;
+  ;
+}
+.img-logo {
+  height: 40px;
+  width: 100px;
+  background: url('../../../assets/imagens/spotify.svg')no-repeat;
+  display: block;
+  background-size: contain;
+  color: transparent;
+}
+
+.nav-item
+a:hover{
+  color: chartreuse;
+}
