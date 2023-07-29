@@ -1,0 +1,11 @@
+#recursos {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
+.rotacionar {
+  transform: rotate(30deg);
+  -ms-trasform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  padding-left: 100px;
+}

@@ -1,0 +1,16 @@
+.albuns {
+  padding: 10px 0 10px 0;
+}
+#servicos h2,
+#servicos h3 {
+    color: #7c25f8;
+}
+img {
+  width: 19rem;
+}
+
+.container{
+  background-color: aliceblue;
+  padding: 2rem;
+  margin-bottom: 5rem;
+}
